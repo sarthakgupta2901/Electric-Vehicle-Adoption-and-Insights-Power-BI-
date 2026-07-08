@@ -132,10 +132,10 @@ The dataset contains information about registered electric vehicles, including:
 
 **Sarthak Gupta**
 
-Electronics and Communication Engineering Undergraduate
+Electronics and Communication Engineering Undergraduate specializing in Data Analytics
 
-GitHub: https://github.com/YourGitHubUsername
+GitHub: https://github.com/sarthakgupta2901
 
-Email: your-email@example.com
+Email: sarthak.gupta2901@gmail.com
 
 
