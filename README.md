@@ -103,18 +103,6 @@ The dataset contains information about registered electric vehicles, including:
 - Identified counties and cities with higher electric vehicle adoption.
 - Explored utility providers serving electric vehicle owners.
 
----
-
-## Repository Contents
-
-```
-📂 Electric-Vehicle-Adoption-Analysis-PowerBI
-│── Electric Vehicle Dashboard.pbix
-│── Electric Vehicle Data Analysis.csv
-│── Dashboard.png
-│── README.md
-│── Problem Statement.pdf (Optional)
-```
 
 ---
 
